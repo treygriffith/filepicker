@@ -103,7 +103,7 @@ Filepicker.prototype.getUrlFromBuffer = function(buf, options, callback) {
 		callback(new Error('Error: must use a Buffer'));
 		return;
 	}
-	this.getUrlFromDAta(buf.toString('base64'), options, callback, true);
+	this.getUrlFromData(buf.toString('base64'), options, callback, true);
 };
 
 // ## Filepicker#getUrlFromUrl
