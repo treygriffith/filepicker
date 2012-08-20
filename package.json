@@ -1,0 +1,33 @@
+{
+  "name": "filepicker",
+  "description": "Serverside file storage using Filepicker.io",
+  "version": "0.1.0",
+  "author": {
+    "name": "Trey Griffith",
+    "email": "trey.griffith@gmail.com"
+  },
+  "contributors": [
+    {
+    "name": "Filepicker.io",
+    "email": "hello@filepicker.io"
+    }
+  ],
+  "keywords": [
+    "filepicker",
+    "upload"
+  ],
+  "dependencies": {
+    "request": "*"
+  },
+  "devDependencies": {
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/treygriffith/filepicker.git"
+  },
+  "homepage": "https://github.com/treygriffith/filepicker"
+}
