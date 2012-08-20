@@ -1,6 +1,6 @@
 {
   "name": "filepicker",
-  "description": "Serverside file storage using Filepicker.io",
+  "description": "Server-side file storage using Filepicker.io",
   "version": "0.1.0",
   "author": {
     "name": "Trey Griffith",
@@ -9,7 +9,7 @@
   "contributors": [
     {
     "name": "Filepicker.io",
-    "email": "hello@filepicker.io"
+    "email": "contact@filepicker.io"
     }
   ],
   "keywords": [
