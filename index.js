@@ -71,7 +71,7 @@ Filepicker.prototype.getUrlFromData = function(fileContents, options, callback, 
 		}
 
 		if(returnJson.result == 'ok') {
-			returnData = returnJson.data[0];
+			returnData = returnJson.data;
 			callback(null, returnData.url, returnData.data);
 		} else if(returnJson.result == 'error') {
 			callback(new Error(returnJson.msg));
