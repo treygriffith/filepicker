@@ -1,7 +1,7 @@
 {
   "name": "filepicker",
   "description": "Server-side file storage using Filepicker.io",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Trey Griffith",
     "email": "trey.griffith@gmail.com"
